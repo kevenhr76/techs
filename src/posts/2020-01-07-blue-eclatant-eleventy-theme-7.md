@@ -1,13 +1,13 @@
 ---
-title: Blue Eclatant Eleventy Theme 7
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+title: new post last 
+description: the new post of todayt.
 date: 2020-01-07 00:00:00
 image: /assets/images/posts/random-img.png
 tags:
   - Eleventy
 ---
 
-# Blue Eclatant Eleventy Theme
+# yje new thmeme
 
 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with [Eleventy](https://www.11ty.dev), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [Webpack](https://webpack.js.org), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
